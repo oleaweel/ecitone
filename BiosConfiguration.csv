@@ -1,2 +1,2 @@
 Setting,Value;
-SecureBoot,Disable;
+SecureBoot,enable;
